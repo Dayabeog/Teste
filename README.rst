@@ -1,4 +1,4 @@
-#################################################################
+git#################################################################
 Reproducible Logistic Regression on Fisher's Iris Flower Database
 #################################################################
 
@@ -16,7 +16,7 @@ This bundle contains the code I used to generate the tables on the paper::
 
 We appreciate your citation in case you use results obtained directly or
 indirectly via this software package.
-
+oi =)
 
 Installation
 ------------
